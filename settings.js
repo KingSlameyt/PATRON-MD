@@ -1,6 +1,6 @@
 global.bankname = "MONIEPOINT"
 
-global.banknumber = "492713876676"
+global.banknumber = "491788915753"
 
 global.bankowner = "FADARE"
 
